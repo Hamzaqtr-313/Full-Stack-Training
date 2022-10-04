@@ -1,0 +1,21 @@
+body{
+   background-image: url(code.jpg);
+   background-size: cover;
+
+}
+
+
+h2{
+    color: white;
+    text-align: center;
+    border: 5px solid goldenrod;
+    cursor: pointer;
+}
+p{
+    color: whitesmoke;
+}
+
+li{
+    list-style: none;
+    display: inline;
+}
