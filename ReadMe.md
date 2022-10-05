@@ -4,6 +4,8 @@
 2/10/2022
 - HTML5 till all videos only exercise and quiz remaining
 
-5/10/2022
+4/10/2022
 - Css properties 
+5/10/22
+- CSS selectors
 

@@ -1,21 +1,44 @@
-body{
-   background-image: url(code.jpg);
-   background-size: cover;
+* {
+    text-align: center;
+}
+
+
+
+body {
+    background-image: url(code.jpg);
+    background-size: cover;
 
 }
 
 
-h2{
+h2 + p :hover {
     color: white;
     text-align: center;
     border: 5px solid goldenrod;
     cursor: pointer;
 }
-p{
+
+p {
     color: whitesmoke;
 }
 
-li{
+li {
     list-style: none;
     display: inline;
+}
+
+.webtext:last-child {
+    border: 5px dashed goldenrod;
+}
+
+.active {
+    color: whitesmoke;
+}
+
+#div1 {
+    background: rgba(0, 0, 0, 0.31);
+}
+
+#div2 {
+    background: rgba(0, 0, 0, 0.31);
 }
