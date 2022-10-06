@@ -5,7 +5,12 @@
 - HTML5 till all videos only exercise and quiz remaining
 
 4/10/2022
-- Css properties 
+- Css properties
+
 5/10/22
 - CSS selectors
+
+6/10/22
+- Css selectors again and text and fonts ways.
+
 

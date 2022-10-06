@@ -3,4 +3,10 @@ h2{
 }
 p{
     color: black;
+    text-transform: uppercase;
+    line-height: 20px;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
