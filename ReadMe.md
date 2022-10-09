@@ -13,4 +13,7 @@
 6/10/22
 - Css selectors again and text and fonts ways.
 
+9/10/22
+- Started Advanced CSS.
+
 
