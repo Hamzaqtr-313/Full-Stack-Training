@@ -1,0 +1,35 @@
+/* NAV BAR */
+body{
+    margin: auto 0;
+}
+.zone{
+    cursor: pointer;
+    /* display: inline-block; */
+    color: #fff;
+    font-size: 2em;
+    border-radius: 4px;
+    border: 1px solid #bbb;
+    transition: all 0.3s linear;
+    background-color: green;
+}
+.main-nav{
+    display: flex;
+    list-style: none;
+    font-size: 0.7em;
+    margin: 0;
+
+}
+
+.push{
+    margin-left: auto;
+}
+
+li{
+    padding: 20px;
+
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
